@@ -1,0 +1,2 @@
+node tes.js
+pause

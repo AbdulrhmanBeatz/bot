@@ -1,0 +1,2 @@
+node Musi.js
+pause
